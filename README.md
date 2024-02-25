@@ -8,12 +8,12 @@ My name is **KuyaGit** and here are some informations about me :D
 
 
 <br /><h3 align="left">Github Stats Summary</h3>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=KuyaGit&show_icons=true&bg_color=35,002880,3059b3,4ab2c7,007f99&text_color=FFF&theme=dark&custom_title=KuyaGit%27s%20GitHub%20stats&hide_border=true&border_radius=10"/>
+<img width="500px" height="300px" src="https://github-readme-stats.vercel.app/api?username=KuyaGit&show_icons=true&bg_color=35,002880,3059b3,4ab2c7,007f99&text_color=FFF&theme=dark&custom_title=KuyaGit%27s%20GitHub%20stats&hide_border=true&border_radius=10"/>
 
 
 
 <br /><h3 align="left">Wakatime Stats:</h3>
-<img height="500px" src="https://wakatime.com/share/@KuyaGit/a6288e46-50b1-4312-9244-7205d3d43ece.svg"/>
+<img width="500px" height="300px" src="https://wakatime.com/share/@KuyaGit/a6288e46-50b1-4312-9244-7205d3d43ece.svg"/>
 
 <a href="https://www.buymeacoffee.com/KuyaGit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
 
@@ -63,9 +63,9 @@ My name is **KuyaGit** and here are some informations about me :D
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="30"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" height="30"/>
 </div>
