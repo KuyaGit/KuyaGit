@@ -14,7 +14,7 @@ My name is **KuyaGit** and here are some informations about me :D
 
 
 
-<summary>Wakatime stats</summary>
+<br /><h3 align="left">Wakatime Stats:</h3>
 <img width="500px" height="500px" src="https://wakatime.com/share/@KuyaGit/a6288e46-50b1-4312-9244-7205d3d43ece.svg"/>
 
 <a href="https://www.buymeacoffee.com/KuyaGit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
