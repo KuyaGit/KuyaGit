@@ -3,11 +3,11 @@ My name is **KuyaGit** and here are some informations about me :D
 
 - 🌱 I’m currently learning .Net, Docker and Kubernetes, and deeper uses of NodeJS
 - 📫 How to reach me: Contact me @ montealtomarklowel@gmail.com
-<br /> <h3 align="center">  Github Stats Summary</h3>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuyaGit&layout=compact"/>
+<br /> <h3 align="left">  Github Stats Summary</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuyaGit&layout=compact"/>
 
 
-<br /> <h3 align="center">  Github Stats Summary</h3>
+<br /> <h3 align="left">  Github Stats Summary</h3>
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=KuyaGit&show_icons=true&bg_color=35,002880,3059b3,4ab2c7,007f99&text_color=FFF&theme=dark&custom_title=KuyaGit%27s%20GitHub%20stats&hide_border=true&border_radius=10"/>
 
 
